@@ -15,7 +15,8 @@
  *Vibe Checker 3000* is a fun Tkinter app that gives users a random, quirky “vibe” message based on their name. It adds humor and personality to a simple interactive experience
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Many people suffer from the tragic uncertainty of not knowing their exact vibe for the day. The *Vibe Checker 3000* bravely solves this by assigning absurdly accurate, randomly generated mood predictions.
+
 
 ### The Solution (that nobody asked for)
 Sometimes people wake up unsure of their *exact* vibe for the day — a truly dire and completely overlooked crisis. The *Vibe Checker 3000* heroically solves this by assigning you an absurdly accurate mood reading.
