@@ -9,7 +9,7 @@
 
 
 ### Team Members
-- Team Lead: Anila Benny - Jyothi Engineering CollegeThe.
+- Team Lead: Anila Benny - Jyothi Engineering College
 
 ### Project Description
  *Vibe Checker 3000* is a fun Tkinter app that gives users a random, quirky “vibe” message based on their name. It adds humor and personality to a simple interactive experience
